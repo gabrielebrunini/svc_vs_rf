@@ -1,4 +1,4 @@
-# Algorithm comparison: MLP vs. Random Forest
+# Algorithm comparison: SVC vs. Random Forest
 ----------
 ## The task
 The task is the following: compare the performance of a Support-Vector machine for classification task (implemented by [sklearn.svm.SVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)) with that of a
