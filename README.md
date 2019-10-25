@@ -1,8 +1,7 @@
 # Algorithm comparison: MLP vs. Random Forest
 ----------
 ## The task
-The task is the following: compare the performance of a Multi-Layer
-Perceptron (implemented by [sklearn.neural_network.MLPClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html)) with that of a
+The task is the following: compare the performance of a Support-Vector machine for classification task (implemented by [sklearn.svm.SVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)) with that of a
 Random Forest (implemented by [sklearn.ensemble.ExtraTreesClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html)).  
 <br> I also tried to optimize both algorithms' parameters and determine which one is best for this dataset. <br>
 At the end of the analysis, I chose an algorithm and its optimal set of parameters: this choice is written explicitly at the end of the notebook.
